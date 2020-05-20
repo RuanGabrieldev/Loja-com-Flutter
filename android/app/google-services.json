@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994142010816",
+    "firebase_url": "https://loja-app-curso.firebaseio.com",
+    "project_id": "loja-app-curso",
+    "storage_bucket": "loja-app-curso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994142010816:android:7eab8c52b01cf50aeb1c25",
+        "android_client_info": {
+          "package_name": "br.com.ruangabriel.loja_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994142010816-7ggjgp2f4jtq0jvu7oppopt488rvh8mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMq8JSB9vOhPN1mz8-986GKdDV-SPCw-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994142010816-7ggjgp2f4jtq0jvu7oppopt488rvh8mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
